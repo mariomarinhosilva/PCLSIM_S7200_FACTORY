@@ -1,0 +1,2 @@
+# PCLSIM_S7200_FACTORY
+connect PLCSIM to factoryIO
